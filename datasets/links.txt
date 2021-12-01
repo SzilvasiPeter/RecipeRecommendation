@@ -1,3 +1,0 @@
-kaggle: https://www.kaggle.com/kaggle/recipe-ingredients-dataset/home
-eightportions: https://eightportions.com/datasets/Recipes/
-1M: https://dominikschmidt.xyz/simplified-recipes-1M/
