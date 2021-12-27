@@ -1,4 +1,4 @@
-Piros vagy sárga burgonya, -35%, 649, Ft, 20
+Name, Discount Precentage, Product Price, Product Currency, Minimum Discount
 Avokádó, -42%, 229, Ft/db, 20
 Citrom, -62%, 299, Ft/kg, 20
 Hegyes erős paprika, -33%, 79, Ft/db, 20
@@ -11,3 +11,16 @@ Hónapos retek, -44%, 139, Ft/cs, 20
 Lila hagyma, -37%, 249, Ft/kg, 20
 Magyar gála alma, -50%, 249, Ft/kg, 20
 Piros vagy sárga burgonya, -35%, 649, Ft, 20
+Avokádó, -42%, 229, Ft/db, 30
+Citrom, -62%, 299, Ft/kg, 30
+Hegyes erős paprika, -33%, 79, Ft/db, 30
+Hónapos retek, -44%, 139, Ft/cs, 30
+Lila hagyma, -37%, 249, Ft/kg, 30
+Magyar gála alma, -50%, 249, Ft/kg, 30
+Avokádó, -42%, 229, Ft/db, 30
+Citrom, -62%, 299, Ft/kg, 30
+Hegyes erős paprika, -33%, 79, Ft/db, 30
+Hónapos retek, -44%, 139, Ft/cs, 30
+Lila hagyma, -37%, 249, Ft/kg, 30
+Magyar gála alma, -50%, 249, Ft/kg, 30
+Piros vagy sárga burgonya, -35%, 649, Ft, 30
