@@ -1,4 +1,3 @@
 kaggle recipe ingredients: https://www.kaggle.com/kaggle/recipe-ingredients-dataset/home
 kaggle food ingredients: https://www.kaggle.com/datafiniti/food-ingredient-lists
 eightportions: https://eightportions.com/datasets/Recipes/
-1M: https://dominikschmidt.xyz/simplified-recipes-1M/
